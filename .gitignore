@@ -1,6 +1,5 @@
-# Adding config.py file.
+# Adding config.py file
 api_keys.py
-api_keys
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
